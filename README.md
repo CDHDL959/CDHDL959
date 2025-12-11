@@ -1,8 +1,6 @@
 ## Hello, my name is Christian Lopez
 
-While serving as a US Army Signal Officer (SIGO) I gained substantive experience ensuring mission-critical communications, maintaining secure enclaves, and leading teams of technically-savvy Soldiers in demanding environments. While in Germany I had the privilege of working in the Regional Cyber Center - Europe (RCC-E) and the Consolidated Intelligence Center (CIC), experiences that sparked my interest in cybersecurity, cloud computing, local LLMs, and object-oriented programming. The experience also showed me how much I have to learn, which is why I am currently pursuing an associates in cybersecurity from Washtenaw Community College. 
-
-Looking forward to expanding my knowledge and experience in this field. I currently do a lot of bash scriptiing since I daily a UNIX system; however, I plan to experiement deeper with Python and start learning C++. 
+Location to keep track of small projects and ideas for later. 
 
 <!--
 **CDHDL959/CDHDL959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
