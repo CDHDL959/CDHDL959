@@ -1,6 +1,6 @@
 ## Hello, my name is Christian Lopez
 
-Location to keep track of small projects and ideas for later. Most projects are done in Python or Shell (zsh). 
+Location to keep track of small projects and ideas for later. Most projects are done in Python or Shell (zsh) and ran on macOS. 
 
 <!--
 **CDHDL959/CDHDL959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
