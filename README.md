@@ -1,4 +1,4 @@
-##Christian Lopez
+## Christian Lopez
 
 Location to keep track of small projects and ideas for later. Most projects are done in Python or Shell (zsh) and ran on macOS. 
 
